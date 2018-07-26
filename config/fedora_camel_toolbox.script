@@ -5,7 +5,5 @@ feature:install fcrepo-service-activemq
 feature:install fcrepo-ldpath
 feature:install fcrepo-fixity
 feature:install fcrepo-indexing-solr
-feature:install fcrepo-indexing-triplestore
 feature:install fcrepo-reindexing
 feature:install fcrepo-serialization
-feature:install fcrepo-audit-triplestore
